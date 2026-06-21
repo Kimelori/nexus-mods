@@ -1,0 +1,10 @@
+{
+  "mods": [
+    {
+      "name": "Simple Voice Chat",
+      "version": "2.6.20",
+      "filename": "voicechat-fabric-1.21.11-2.6.20.jar",
+      "url": "https://raw.githubusercontent.com/Kimelori/nexus-mods/main/voicechat-fabric-1.21.11-2.6.20.jar"
+    }
+  ]
+}
